@@ -29,6 +29,8 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=leticiacostt&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
   </a>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacostt&layout=compact&langs_count=7&theme=outrun"/>
+  
+   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
     
 </div>
   
