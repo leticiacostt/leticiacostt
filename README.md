@@ -1,40 +1,127 @@
 <div align="center">
-  <h1 align="center"> Hi! I'm Letícia Costa 👩🏾‍💻 </h1>
-  <i>“Your time is limited, so don’t waste it living someone else’s life.”</i>
-  <br><br>
+
+# Hi! I'm Letícia Costa 👩🏾‍💻
+
+### Artificial Intelligence & Machine Learning Student | Python Developer in Progress
+
+💡 Interested in Programming, Artificial Intelligence, Automation and Technology
+
+<br>
+
+<i>"Your time is limited, so don’t waste it living someone else’s life."</i>
+
 </div>
+
+---
+
+## 👩🏾‍💻 About Me
+
+I'm a student of **Artificial Intelligence and Machine Learning**, currently developing my skills in programming and software development.
+
+My programming journey started with **Python**, and I'm currently studying **C** to strengthen my foundations in programming logic, algorithms and problem solving.
+
+I'm particularly interested in:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 🐍 Python Development
+- 💻 Software Development
+- ⚙️ Automation
+- 🧠 Programming Logic & Problem Solving
+- 🔐 Cybersecurity
+
+I'm constantly learning, building projects and documenting my progress here on GitHub.
+
+---
+
+## 🚀 Currently Learning
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/90218537/162528615-21a58ae9-5100-4ffc-9e4d-a3012c5b2c3b.png" width=500 align="left">
-   <div align="left">
-     <h3 align="center">Languages and Tools</h3>
-     <div align="center">
-      <img align="center" alt="Leticia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Leticia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Leticia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Leticia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-       <div> 
-         <hr>
-         <h3 align="center">Contact me</h3>
- <a href="https://discord.gg/H3HFKx2M" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:leticiacosta7604@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<div/> 
-     </div>
-  </div>
+
+<img alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+<img alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+
+<img alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
 </div>
 
-<br><br><br><br><br><br>
+<br>
+
+- Python
+- C
+- Programming Logic
+- Git & GitHub
+- Artificial Intelligence
+- Machine Learning
+- Automation
+
+---
+
+## 📚 Projects & Studies
+
+### 🐍 Python
+
+Projects and exercises focused on programming fundamentals, automation, problem solving and practical development.
+
+### 💻 C
+
+Currently studying C to strengthen my programming foundations and develop problem-solving skills.
+
+📌 **[C Studies](https://github.com/leticiacostt/c-estudos)**
+
+Topics include:
+
+- Variables and data types
+- Constants
+- Arithmetic, relational and logical operators
+- Conditional structures
+- Programming logic
+- Problem solving
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+Currently studying Artificial Intelligence and Machine Learning, combining academic learning with practical programming projects.
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/leticiacostt">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leticiacostt&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  </a>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacostt&layout=compact&langs_count=7&theme=outrun"/>
-  
-   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
-    
-</div>
-  
 
-  
-  ##
-  
+<a href="https://github.com/leticiacostt">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=leticiacostt&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacostt&layout=compact&langs_count=7&theme=outrun"/>
+
+</a>
+
+</div>
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="mailto:leticiacosta7604@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌱 Always learning. Always building.
+
+</div>
