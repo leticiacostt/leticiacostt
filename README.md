@@ -88,40 +88,16 @@ Currently studying Artificial Intelligence and Machine Learning, combining acade
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/leticiacostt">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=leticiacostt&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiacostt&layout=compact&langs_count=7&theme=outrun"/>
-
-</a>
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
 
-<a href="mailto:leticiacosta7604@gmail.com">
+<a href="mailto:leticiacosta7610@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin/aleticiacost/.com/">
 <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌱 Always learning. Always building.
 
 </div>
